@@ -1,2 +1,2 @@
 # JPWP-Projekt-2019-Symulator-Druzyny-Harcerskiej
-Projekt Semestr 6
+Projekt Języki Programowania Wysokiego Poziomu Semestr 6
